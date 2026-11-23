@@ -1,8 +1,5 @@
 # Record Manager
 
-A music library manager for DJs on Windows: analysis, playlist downloads from
-Spotify and SoundCloud, extended mixes, better copies, and Rekordbox export.
-
 This repository only holds the releases. To install, download
 `RecordManagerSetup.exe` from the latest release on the
 [Releases](https://github.com/cduke0/record-manager-releases/releases/latest)
